@@ -23,8 +23,8 @@ let databaseconnection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "1qaz2wsx",
-    database: "ecommerce_db"
+    password: "N@ndhu0514",
+    database: "ecomdb"
 })
 
 // to check whether db connected to BE, the connect keyword here is a predef func of mysql which is not related to express method.
